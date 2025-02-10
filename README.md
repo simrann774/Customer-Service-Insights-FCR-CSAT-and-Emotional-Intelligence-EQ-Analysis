@@ -1,15 +1,14 @@
 # Customer-Service-Insights-FCR-CSAT-and-Emotional-Intelligence-EQ-Analysis
 
 This project investigates the relationship between key customer service metrics—First Call Resolution (FCR), Customer Satisfaction (CSAT), and Emotional Intelligence (EQ). Using real-world data scraped from Trustpilot reviews, the goal is to provide insights into how Emotional Intelligence can play a critical role in improving Customer Satisfaction scores.
-
-Octoparse was used to scrape Trustpilot reviews from a variety of customer service interactions, providing a rich dataset for analysis. The project focuses on how First Call Resolution (FCR) and Emotional Intelligence impact customer satisfaction, with actionable insights for improving customer service outcomes.
+Octoparse was used to scrape Trustpilot reviews from a variety of customer service interactions, providing a rich dataset for analysis.
 
 Objectives:
 Analyze First Call Resolution (FCR) and its impact on CSAT scores.
 Measure Customer Satisfaction (CSAT) across different customer service specialists.
 Explore the role of Emotional Intelligence (EQ) in enhancing customer interactions.
-Analyze Trustpilot reviews to understand real-world customer feedback and complaints.
 Provide recommendations for improving customer satisfaction through better customer service practices and emotional intelligence.
+
 Tools and Techniques Used:
 Data Scraping: Octoparse (to scrape reviews from Trustpilot)
 Data Analysis: Excel, Google Sheets
